@@ -1,1 +1,4 @@
-Esercizi e codice sviluppato in autonomia per lo studio (e approfondimento) dell'esame di statistica.
+# Statistical Study Exercises
+
+This repository contains exercises and code developed independently for the study and in-depth understanding of statistics.
+
